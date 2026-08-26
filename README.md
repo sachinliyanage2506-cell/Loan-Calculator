@@ -1,5 +1,11 @@
 # Loan-Calculator
 
+How to run: 
+Download and extract all the files from the folder and place them into a coding editor.
+OR 
+Copy the code across, preferably use IDLE(3.14).
+
+
 Introduction: A desktop GUI application built with Python and Tkinter that assist business owners determine whether a loan is affordable. Simply input the loan amount, interest rate, term, income and expenses, and the software calculates the monthly repayment, total interest and cash surplus. Then stores the results in a report and a local database for future reference.
 
 Features:
