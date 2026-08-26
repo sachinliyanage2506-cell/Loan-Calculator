@@ -5,6 +5,7 @@ Download and extract all the files from the folder and place them into a coding 
 OR 
 Copy the code across, preferably use IDLE(3.14).
 
+Open the IIT Flowchart Design Assignment 4.drawio.pdf file to gain a more visual perspective on how the program works!
 
 Introduction: A desktop GUI application built with Python and Tkinter that assist business owners determine whether a loan is affordable. Simply input the loan amount, interest rate, term, income and expenses, and the software calculates the monthly repayment, total interest and cash surplus. Then stores the results in a report and a local database for future reference.
 
