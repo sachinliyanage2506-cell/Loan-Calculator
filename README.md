@@ -24,6 +24,3 @@ Possible Future Improvements
 
 Author
 - Sachin Liyanage
-
-License 
-- This project is available for educational and personal use
